@@ -58,5 +58,5 @@ The system is built as a multi-agent graph using **LangGraph**, where each node 
 ---
 
 ## 👤 Author
-**Anushka Nirat**
+**Mamta Kumari**
 [🔗 LinkedIn](https://www.linkedin.com/in/anushka-nirat-55459b288/) &nbsp;|&nbsp; [💻 GitHub](https://github.com/anushka099)
